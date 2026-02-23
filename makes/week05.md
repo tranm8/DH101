@@ -17,3 +17,8 @@ Respond to this week’s reflection prompt in 200–300 words.
 - AI prompts (summary):
 - What AI generated:
 - What you changed or decided:
+
+
+
+https://github.com/user-attachments/assets/062027e8-1a1b-4760-9e80-a6a9d2841ca1
+
