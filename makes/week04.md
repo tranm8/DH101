@@ -1,8 +1,7 @@
 # Week 4 – Comic & Storytelling
 
 ## The Artifact
-Describe or embed your artifact here.
-Include images, links, or media as appropriate.
+![image](https://imgur.com/a/Ec8evvD)
 
 ## Process Notes
 How did you make this?
