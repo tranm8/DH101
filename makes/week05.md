@@ -11,12 +11,16 @@ https://github.com/user-attachments/assets/062027e8-1a1b-4760-9e80-a6a9d2841ca1
 5. ​AI complicates the concepts of authorship and originality because the work is no longer created entirely by a single individual. I provide the idea, choose the style and emotion, but the image is created thanks to algorithms and the machine's training data. Therefore, authorship becomes a collaboration between the human and the AI system.
 
 ## Attribution & AI Use
+
 1, ​Tools used:
 ChatGPT, Capcut
+
 ​2, AI Prompt:
 “A 3-second seamless looping GIF of a smiling girl with soft pink hair indoors, gentle natural light, slow blink and small head tilt, cozy atmosphere, warm pastel tones, smooth motion, perfectly seamless loop, high quality, cinematic lighting.”
+
 3, ​AI generated:
 AI generated character images with pink hair in a pastel style, warm lighting, expressions of closing eyes, blinking, winking, and tilting the head.
+
 ​4, I edited:
 I chose the idea, decided on the expression and color style. I selected the appropriate image versions and requested additional expressions to create variety. I decided which version to use as the final GIF.
 
