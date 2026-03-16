@@ -1,7 +1,7 @@
 # Week 5 – GIF & Remix Culture
 
 ## The Artifact
-https://github.com/user-attachments/assets/062027e8-1a1b-4760-9e80-a6a9d2841c
+https://github.com/user-attachments/assets/062027e8-1a1b-4760-9e80-a6a9d2841ca1
 
 ## Reflection
 1. I used the method of creating images from AI and then assembling them into a GIF; when the image becomes a looping GIF instead of a static photo, the visual experience changes significantly. The GIF creates a sense of time and rhythm. This makes expressions, such as a blink or a head tilt, make the image become more lifelike, but at the same time, it also carries a mechanical nature because it keeps repeating forever.
@@ -22,5 +22,4 @@ I chose the idea, decided on the expression and color style. I selected the appr
 
 
 
-https://github.com/user-attachments/assets/062027e8-1a1b-4760-9e80-a6a9d2841ca1
 
