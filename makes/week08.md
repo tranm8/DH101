@@ -2,7 +2,7 @@
 
 ## The Artifact
 
-<<img width="3803" height="1723" alt="A network visualization showing relationships among AI companies, technologies, labor, ethics, and power structures" src="https://github.com/user-attachments/assets/5fe6a45f-e30d-4476-a2d4-73dbe7aa125c" />
+<img width="3803" height="1723" alt="A network visualization showing relationships among AI companies, technologies, labor, ethics, and power structures" src="https://github.com/user-attachments/assets/5fe6a45f-e30d-4476-a2d4-73dbe7aa125c" />
 
 ## Network Analysis
 
