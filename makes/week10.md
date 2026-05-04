@@ -2,6 +2,8 @@
 
 ## The Artifact
 
+(AI boss interview.html)
+
 ## Design Statement
 
 My game, AI boss interview, is an interactive Twine narrative about leadership in an AI-driven corporate world. The player takes the role of a CEO candidate being evaluated by an AI boss. At first, the interview appears to be about business skill and fast decision-making, but the deeper question is whether leadership should be reduced to optimization, speed, and data. The game asks: when AI systems become more powerful and persuasive, what kinds of judgment should remain human?
