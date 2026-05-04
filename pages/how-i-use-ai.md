@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-# How I Use AI
+## How I Use AI
 
 In DH101, I used AI as an assistant, not as a replacement for my own thinking. I used tools such as ChatGPT, DALL-E, GitHub Copilot, and other digital platforms to brainstorm, draft, code, and revise. However, I made the final decisions about meaning, design, argument, and ethics.
 
