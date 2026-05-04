@@ -1,8 +1,6 @@
 # Week 11 – AI & Labor
 
 ## The Artifact
-<img width="1055" height="465" alt="Screenshot 2026-05-04 at 12 48 37 AM" src="https://github.com/user-attachments/assets/bcce59b3-ceac-497f-b7cd-c97031083e55" />
-
 
 ## Research Notes 
 
