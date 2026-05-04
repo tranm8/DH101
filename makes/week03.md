@@ -11,18 +11,18 @@ In the edited image, I find that my nose and hair are the parts the AI rendered 
 
 ## Attribution & AI Use
 
-Tools used
+**Tools used**
 
 DALL-E
 
-Prompts summary
+**Prompts summary**
 
 I used an actual photo of myself as the basis for the model and gave it a simple prompt: “Based on the face of the girl in this photo, create a selfie of me.” After the first result, I went ahead and gave it detailed descriptions of my features to enhance the actual image.
 
-​What the AI generated
+​**What the AI generated**
 
 The AI created a digital selfie with the parameters of my hair and style being well realized with the first attempt itself. However, the features of my face looked extremely "fake" and lacking in the authenticity of natural features of real faces.
 
-What you changed or decided
+**What you changed or decided**
 
 I chose to have a more direct interaction with the AI, letting it know what specific textual modifications would be considered to make the "fake" more appealing. I told the AI to make my nose very large at the tip, that I had hidden double eyelids, and that I had a thicker upper lip than a thinner one at the bottom. I did this in an attempt to get the AI to look beyond its default "pretty girl" template to my own unique physical structure.
