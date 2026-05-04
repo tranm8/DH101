@@ -2,7 +2,7 @@
 
 ## The Artifact
 
-<img width="1192" height="540" alt="Screenshot 2026-05-04 at 12 39 17 AM" src="https://github.com/user-attachments/assets/ce38488b-7943-4312-9515-dedebd015d45" />
+<img width="1192" height="540" alt="A network visualization showing relationships among AI companies, technologies, labor, ethics, and power structures" src="https://github.com/user-attachments/assets/ce38488b-7943-4312-9515-dedebd015d45" />
 
 
 ## Network Analysis
