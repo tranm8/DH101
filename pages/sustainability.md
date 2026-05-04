@@ -1,4 +1,7 @@
-# Sustainability & Ethics
+---
+layout: default
+---
+## Sustainability & Ethics
 
 My Research Summary
 
