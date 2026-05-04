@@ -62,7 +62,10 @@ stronger environmental policies, transparent reporting, and sustainable design.
 
 ## Attribution & AI Use
 
-- Tools used: Canva, ChatGPT, GitHub Pages, and Markdown.
-- AI prompts (summary): I used AI to help brainstorm how to explain the environmental impact of AI, including energy use, water consumption, data centers, and resource extraction.
-- What AI generated: AI suggested possible wording, key concepts, and ways to connect my artifact to sustainability, ecology, and the hidden material costs of AI systems.
-- What you changed or decided: I chose the final environmental focus, selected the visual structure, revised the language, checked the ideas against course themes, and connected the project to DH101 discussions about AI, ecology, ethics, and responsibility.
+**- Tools used:** Canva, ChatGPT, GitHub Pages, and Markdown.
+
+**- AI prompts (summary):** I used AI to help brainstorm how to explain the environmental impact of AI, including energy use, water consumption, data centers, and resource extraction.
+
+**- What AI generated:** AI suggested possible wording, key concepts, and ways to connect my artifact to sustainability, ecology, and the hidden material costs of AI systems.
+
+**- What you changed or decided:** I chose the final environmental focus, selected the visual structure, revised the language, checked the ideas against course themes, and connected the project to DH101 discussions about AI, ecology, ethics, and responsibility.
