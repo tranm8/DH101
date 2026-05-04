@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# About Me
+## About Me
 
 Hello! My name is Mai Linh Tran. 
 I am a student in the DH 101 course. 
