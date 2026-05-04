@@ -15,8 +15,8 @@ When creating the panels, I focused on timing. I spaced out the dialogue to show
 
 ## Attribution & AI Use
 
-AI Tool: ChatGPT (help with organizing and polishing the commentary text)
+**AI Tool:** ChatGPT (help with organizing and polishing the commentary text)
 
-Human Contribution: Real-life conversations, joke idea, drawings, dialogue, and storytelling decisions
+**Human Contribution:** Real-life conversations, joke idea, drawings, dialogue, and storytelling decisions
 
-AI Role: Images support
+**AI Role:** Images support
