@@ -2,7 +2,7 @@
 
 This page collects my weekly makes for DH101: Critical Making in the Age of AI.
 
-## Weekly Makes
+## Final Portfolio Makes
 
 - [Week 3: AI Selfie](week03.html)
 - [Week 4: Comic & Storytelling](week04.html)
