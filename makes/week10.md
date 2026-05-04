@@ -25,24 +25,24 @@ Working in Twine also showed me how strong even simple branching can be. I origi
 This project also made me think more critically about AI collaboration. AI was useful for support, especially for brainstorming options, revising wording, and identifying weak or fake choices. But the most important work was deciding what argument I wanted the game to make and which revisions fit that argument. If I continued developing this project, I would expand the consequences further and make the endings feel even more distinct. 
 
 ## Attribution & AI Use
-How I use AI: 
+**How I use AI:**
 
-What AI helped me do
+**What AI helped me do**
 
 Identify weak or “fake” choices in my early Twine draft
 Suggest ways to deepen consequences after major decisions
 Explain how to structure Twine passages and endings more effectively
 Adjust grammar and wording. 
 
-What I kept
+**What I kept**
 
 I kept the core concept of an AI interviewing a human for a CEO role. I also kept my central theme: the tension between profit, ethics, and human judgment. The final game still reflects my own interest in how AI changes leadership, responsibility, and decision-making.
 
-What I changed
+**What I changed**
 
 I changed several of the original branches after getting feedback. In particular, I revised choices that felt too simple, added more consequences after major decisions, and made the endings more distinct. I also added press reactions and board reactions to make each choice feel more meaningful.
 
-My policy on AI use
+**My policy on AI use**
 
 I believe AI is most useful for brainstorming, editing, and critique. It can help me notice gaps, but it should not replace my own argument, voice, or design choices. For this assignment, I used AI to support revision and reflection, while keeping the project’s final direction and meaning under my control.  
 
