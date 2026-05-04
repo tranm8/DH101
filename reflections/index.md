@@ -1,7 +1,5 @@
 # Reflections
 
-This page collects my weekly reflection journals from DH101: Critical Making in the Age of AI.
-
 ## Selected Reflections for Final Portfolio
 
 - [Week 1: What Counts as Making?](week01.html)
