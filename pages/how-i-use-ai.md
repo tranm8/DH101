@@ -1,5 +1,6 @@
 ---
 layout: default
+title: Ai Use 
 ---
 ## How I Use AI
 
