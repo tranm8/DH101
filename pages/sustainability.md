@@ -1,5 +1,6 @@
 ---
 layout: default
+title: Sustainability & Ethics
 ---
 # Sustainability & Ethics
 
