@@ -2,8 +2,7 @@
 
 ## The Artifact
 
-## Process Notes
-Design Statement: 
+## Design Statement
 
 My game, AI boss interview, is an interactive Twine narrative about leadership in an AI-driven corporate world. The player takes the role of a CEO candidate being evaluated by an AI boss. At first, the interview appears to be about business skill and fast decision-making, but the deeper question is whether leadership should be reduced to optimization, speed, and data. The game asks: when AI systems become more powerful and persuasive, what kinds of judgment should remain human?
 
@@ -13,9 +12,7 @@ The mechanics support this theme through procedural rhetoric. The rules of the g
 
 This design was influenced by ideas from Critical Making in the Age of AI, especially the idea that Twine can be used to construct choice and argument through simulation and representation, not just tell a story. I wanted the game’s structure itself to make the argument that human judgment still matters in the age of AI.
 
-
-## Reflection
-Artist Statement: 
+## Artist Statement
 
 This project helped me understand that games are different from static stories because they make ideas felt through rules, choices, and consequences. If I wrote AI Interview as a regular essay or short story, I could still talk about ethics, labor, and AI governance, but the reader would not experience those tensions in the same way. In the game, the player has to move through pressure, uncertainty, and consequence. That interactive structure makes the theme more immediate.
 
