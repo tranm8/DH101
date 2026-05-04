@@ -1,0 +1,165 @@
+/* General page style */
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  background: #fff7fb;
+  color: #4a2c3a;
+  line-height: 1.6;
+}
+
+/* Header */
+header {
+  background: linear-gradient(135deg, #f8b6cc, #f48fb1);
+  color: white;
+  padding: 32px 20px;
+  text-align: center;
+}
+
+header h1 {
+  margin-bottom: 8px;
+  color: white;
+}
+
+header p {
+  margin: 0;
+  font-size: 1.1rem;
+}
+
+/* Navigation */
+nav {
+  background: #f7c6d9;
+  padding: 14px;
+  text-align: center;
+  border-bottom: 2px solid #efabc5;
+}
+
+nav a {
+  color: #7a2e4d;
+  margin: 0 12px;
+  text-decoration: none;
+  font-weight: bold;
+}
+
+nav a:hover {
+  color: #a93d63;
+  text-decoration: underline;
+}
+
+/* Main content box */
+.container {
+  background: #fffafc;
+  max-width: 900px;
+  margin: 32px auto;
+  padding: 40px;
+  border-radius: 16px;
+  box-shadow: 0 4px 14px rgba(201, 79, 124, 0.14);
+}
+
+/* Headings */
+h1, h2, h3 {
+  color: #c94f7c;
+}
+
+h1 {
+  font-size: 2rem;
+}
+
+h2 {
+  margin-top: 28px;
+  border-bottom: 2px solid #f3c1d4;
+  padding-bottom: 6px;
+}
+
+/* Paragraphs */
+p {
+  font-size: 1rem;
+}
+
+/* Links inside content */
+main a {
+  color: #d85b87;
+  font-weight: bold;
+}
+
+main a:hover {
+  color: #a93d63;
+}
+
+/* Lists */
+ul, ol {
+  padding-left: 24px;
+}
+
+li {
+  margin-bottom: 8px;
+}
+
+/* Images */
+img {
+  max-width: 100%;
+  height: auto;
+  border-radius: 12px;
+  display: block;
+  margin: 20px auto;
+  box-shadow: 0 4px 12px rgba(122, 46, 77, 0.18);
+}
+
+/* Blockquotes */
+blockquote {
+  border-left: 5px solid #f48fb1;
+  padding-left: 16px;
+  color: #6d3a4d;
+  background: #fff0f6;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  border-radius: 8px;
+}
+
+/* Code */
+code {
+  background: #fff0f6;
+  color: #7a2e4d;
+  padding: 2px 5px;
+  border-radius: 5px;
+}
+
+pre {
+  background: #fff0f6;
+  color: #7a2e4d;
+  padding: 16px;
+  border-radius: 10px;
+  overflow-x: auto;
+}
+
+/* Attribution boxes */
+.attribution,
+.ai-use,
+.accessibility-note {
+  background: #fff0f6;
+  border-left: 5px solid #d85b87;
+  padding: 16px;
+  margin-top: 24px;
+  border-radius: 10px;
+}
+
+/* Footer */
+footer {
+  background: #f7c6d9;
+  color: #7a2e4d;
+  text-align: center;
+  padding: 14px;
+  margin-top: 40px;
+}
+
+/* Mobile friendly */
+@media (max-width: 700px) {
+  nav a {
+    display: block;
+    margin: 8px 0;
+  }
+
+  .container {
+    margin: 18px;
+    padding: 24px;
+  }
+}
