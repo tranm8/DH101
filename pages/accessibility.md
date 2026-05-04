@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-# Accessibility
+## Accessibility
 
 - Alt-Text Implementation: Added descriptive alternative text to all images and visualizations.
 - Descriptive Hyperlinks: Audited all posts to replace generic "click here" links with descriptive
