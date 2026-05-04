@@ -7,7 +7,7 @@ I updated this website to make it more inclusive, readable, and accessible for d
 
 ## Accessibility Updates
 
-- **Alt-Text Implementation:** I added descriptive alternative text to images and visualizations from Week 1 to Week 8 so users using screen readers can better understand the content.
+- **Alt-Text Implementation:** I added descriptive alternative text to images and visualizations.
 - **Descriptive Hyperlinks:** I audited my posts and replaced generic links such as “click here” with descriptive link text.
 - **Contrast Audit:** I verified the main color contrast ratios using the WebAIM Contrast Checker, including header text, navigation text, and body text.
 - **Readable Structure:** I used clear headings, short sections, and simple navigation to make the website easier to scan and navigate.
