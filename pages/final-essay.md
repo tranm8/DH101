@@ -1,5 +1,6 @@
 ---
 layout: default
+title: Final Reflective Essay
 ---
 # Final Reflective Essay: What Does It Mean to Be Human in the Age of AI?
 
