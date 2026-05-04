@@ -2,7 +2,7 @@
 
 ## The Artifact
 
-You can find my map on: https://www.google.com/maps/d/edit?mid=1-8uqDGMj1w6dSLQ_XFdLALhfYNkGjmc&ll=2.912516968543734%2C0&z=2
+You can find my map here: [AI Infrastructure Map](https://www.google.com/maps/d/edit?mid=1-8uqDGMj1w6dSLQ_XFdLALhfYNkGjmc&ll=2.912516968543734%2C0&z=2)
 
 ## Reflection
 
