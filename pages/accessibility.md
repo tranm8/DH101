@@ -1,3 +1,6 @@
+---
+layout: default
+---
 # Accessibility
 
 - Alt-Text Implementation: Added descriptive alternative text to all images and visualizations.
