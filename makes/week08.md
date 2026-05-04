@@ -47,7 +47,7 @@ extending to Ghana, Kenya, and Chile remind the viewer that this heart beats onl
 from the edges of the map. It is a portrait of a system where the "future" is built on the ancient bedrock of resource extraction.
 
 ## Attribution & AI Use
-- Tools used: Palladio, ChatGPT, GitHub Pages, and Markdown.
-- AI prompts (summary): I used AI to help brainstorm how to explain my network visualization and connect it to power, visibility, and hidden relationships in AI systems.
-- What AI generated: AI suggested possible reflection language, key terms, and ways to describe the meaning of nodes, edges, and visibility in the network.
-- What you changed or decided: I chose the topic, selected the relationships to include, created the network structure, revised the explanation, and connected the project to DH101 themes about knowledge, power, and invisible labor.
+**- Tools used:** Palladio, ChatGPT, GitHub Pages, and Markdown.
+**- AI prompts (summary):** I used AI to help brainstorm how to explain my network visualization and connect it to power, visibility, and hidden relationships in AI systems.
+**- What AI generated:** AI suggested possible reflection language, key terms, and ways to describe the meaning of nodes, edges, and visibility in the network.
+**- What you changed or decided:** I chose the topic, selected the relationships to include, created the network structure, revised the explanation, and connected the project to DH101 themes about knowledge, power, and invisible labor.
