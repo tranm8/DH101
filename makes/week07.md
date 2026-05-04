@@ -26,10 +26,10 @@ This pattern reflects Digital Colonialism: raw minerals are extracted from these
 
 ## Attribution & AI Use
 
-Theory: Crawford, Kate. Atlas of AI (2021); D'Ignazio & Klein, Data Feminism (2020).
+**Theory:** Crawford, Kate. Atlas of AI (2021); D'Ignazio & Klein, Data Feminism (2020).
 
-​Data: Time Magazine (Kenyan workers exposé); Rest of World (Global AI labor reports), U.S. Geological Survey (Mining sites); Greenpeace (Data center energy reports).
+​**Data:** Time Magazine (Kenyan workers exposé); Rest of World (Global AI labor reports), U.S. Geological Survey (Mining sites); Greenpeace (Data center energy reports).
 ​Tools: Google My Maps.
 
-​AI Disclosure: Google AI was used for English translation refinement, and brainstorming thematic connections. 
+​**AI Disclosure:** Google AI was used for English translation refinement, and brainstorming thematic connections. 
 
