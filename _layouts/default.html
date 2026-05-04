@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+  <title>{{ page.title | default: "Mai Linh - DH101 Portfolio" }}</title>
+
+  <link rel="stylesheet" href="{{ site.baseurl }}/assets/css/style.css">
+</head>
+
+<body>
+
+<header>
+  <h1>Mai Linh’s DH101 Portfolio</h1>
+  <p>Critical Making in the Age of AI</p>
+</header>
+
+<nav>
+  <a href="{{ site.baseurl }}/index.html">Home</a>
+  <a href="{{ site.baseurl }}/pages/about.html">About</a>
+  <a href="{{ site.baseurl }}/makes/">Makes</a>
+  <a href="{{ site.baseurl }}/reflections/">Reflections</a>
+  <a href="{{ site.baseurl }}/pages/how-i-use-ai.html">AI Use</a>
+  <a href="{{ site.baseurl }}/pages/accessibility.html">Accessibility</a>
+  <a href="{{ site.baseurl }}/pages/sustainability.html">Sustainability</a>
+  <a href="{{ site.baseurl }}/pages/final-essay.html">Final Essay</a>
+</nav>
+
+<main class="container">
+  {{ content }}
+</main>
+
+<footer>
+  <p>© 2026 Mai Linh Tran | DH101 Student Website</p>
+</footer>
+
+</body>
+</html>
