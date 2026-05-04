@@ -2,7 +2,7 @@
 
 ## The Artifact
 
-(AI boss interview.html)
+[AI Boss Interview](AI boss interview.html)
 
 ## Design Statement
 
