@@ -1,11 +1,9 @@
 # Week 4 – Comic & Storytelling
 
 ## The Artifact
-<<<<<<< HEAD
+
 I created this comic based on my daily conversations with my friend. 
-=======
-![image]([https://i.imgur.com/c1atq1F.jpeg](https://imgur.com/a/JOsURVn))
->>>>>>> 49fd96f2b13d0cbd15cff7df882a830dd742839f
+https://imgur.com/a/JOsURVn
 
 ## Commentary 
 
