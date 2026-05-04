@@ -2,7 +2,7 @@
 
 ## The Artifact
 
-<<img width="581" height="729" alt="A Vietnamese comic showing two friends joking during an everyday conversation" src="https://github.com/user-attachments/assets/82b81068-eee0-464c-815a-992964c7319a" />
+<img width="581" height="729" alt="A Vietnamese comic showing two friends joking during an everyday conversation" src="https://github.com/user-attachments/assets/82b81068-eee0-464c-815a-992964c7319a" />
 
 ## Commentary 
 
