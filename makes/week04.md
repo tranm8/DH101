@@ -2,7 +2,10 @@
 
 ## The Artifact
 
-![I created this comic based on my daily conversations with my friend] (https://i.imgur.com/SvEAVm7.png)
+I created this comic based on my daily conversations with my friend
+
+<img width="581" height="729" alt="Screenshot 2026-05-04 at 12 15 55 AM" src="https://github.com/user-attachments/assets/82b81068-eee0-464c-815a-992964c7319a" />
+
 
 ## Commentary 
 
