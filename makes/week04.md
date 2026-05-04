@@ -2,8 +2,7 @@
 
 ## The Artifact
 
-I created this comic based on my daily conversations with my friend. 
-https://imgur.com/a/JOsURVn
+![I created this comic based on my daily conversations with my friend.] (https://i.imgur.com/SvEAVm7.png)
 
 ## Commentary 
 
