@@ -1,5 +1,6 @@
 ---
 layout: default
+title: Accessibility Statement
 ---
 # Accessibility Statement
 
