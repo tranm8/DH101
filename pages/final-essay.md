@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-# Final Reflective Essay: What Does It Mean to Be Human in the Age of AI?
+## Final Reflective Essay: What Does It Mean to Be Human in the Age of AI?
 
 What does it mean to be human in the age of AI? After taking DH101: Critical Making in the Age of AI, my answer is that being human means more than simply using advanced tools. It means making, questioning, revising, caring, and taking responsibility for the systems we help create. AI can write, draw, code, summarize, and generate new ideas, but it does not remove the need for human judgment. In fact, the more powerful AI becomes, the more important human responsibility becomes. My central argument is that being human in the age of AI means refusing to become a passive user of technology. Instead, we must become critical makers who understand that digital tools are connected to identity, labor, power, bias, and the environment.
 
