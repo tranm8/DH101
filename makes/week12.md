@@ -1,8 +1,8 @@
 # Week 12 – AI & Ecology
 
 ## The Artifact
-Describe or embed your artifact here.
-Include images, links, or media as appropriate.
+<img width="1055" height="465" alt="Screenshot 2026-05-04 at 12 48 37 AM" src="https://github.com/user-attachments/assets/75c16c4f-f41a-4f8c-8c9a-b12c3ae526d9" />
+
 
 ## Research Documentation
 
