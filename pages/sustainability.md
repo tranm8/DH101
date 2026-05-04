@@ -43,6 +43,6 @@ product lifecycle, from mining to e-waste.
 ● **Responsibility:** Big Tech must move beyond "green" metaphors and implement 24/7
 carbon-free energy and total mineral transparency.
 
-## Website Accessibility & Formatting Report:
+## Website Design Choice
 
-This "Sustainability & Ethics" page has beensuccessfully published to my course portfolio.
+For this website, I used a simple static structure with limited embeds and unnecessary scripts. This helps keep the site lightweight and connects my digital work to the course’s sustainability themes.
