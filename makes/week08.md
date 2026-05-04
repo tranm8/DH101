@@ -1,8 +1,9 @@
 # Week 8 – Networks of Knowledge & Power
 
 ## The Artifact
-Describe or embed your artifact here.
-Include images, links, or media as appropriate.
+
+<img width="1192" height="540" alt="Screenshot 2026-05-04 at 12 39 17 AM" src="https://github.com/user-attachments/assets/ce38488b-7943-4312-9515-dedebd015d45" />
+
 
 ## Network Analysis
 
