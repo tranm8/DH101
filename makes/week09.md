@@ -1,6 +1,9 @@
 # Week 9 – Bots & Generators
 
 ## The Artifact
+
+**The Generator**
+
 Tools used: Suno AI (https://suno.ai)
 
 Base prompt: A sentimental J-Pop anime opening style. Upbeat but bittersweet melody, a
@@ -16,7 +19,8 @@ Add lyrics about a boy and girl who share the same niche jokes and sense of humo
 
 <img width="642" height="328" alt="Ảnh màn hình 2026-05-12 lúc 7 46 39 CH" src="https://github.com/user-attachments/assets/0f178224-ece4-427f-b47e-06143007ebf3" />
 
-Curated Outputs
+**Curated Outputs**
+
 The Curation process from a total of 9 generated tracks.
 
 Track 1: [Love or lemon]
