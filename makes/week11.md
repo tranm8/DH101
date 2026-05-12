@@ -2,6 +2,11 @@
 
 ## The Artifact
 
+**THE ZINE**
+
+<img width="427" height="631" alt="Ảnh màn hình 2026-05-12 lúc 7 54 27 CH" src="https://github.com/user-attachments/assets/3fec6233-fbc0-4341-946a-8e1ec793aad4" />
+
+
 ## Research Notes 
 
 This research project synthesizes the environmental metrics of modern artificial intelligence with
