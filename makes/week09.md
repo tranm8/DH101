@@ -24,13 +24,17 @@ Add lyrics about a boy and girl who share the same niche jokes and sense of humo
 The Curation process from a total of 9 generated tracks.
 
 Track 1: [Love or lemon]
+
 https://suno.com/s/QJc21gZ0mqg0aaYH
+
 This track clearly demonstrates the best 'Anime vibe' because the chorus suddenly shifted the
 rhythm in a way that fit perfectly. It also has excellent conceptual fit with my initial prompt
 about a real J-Pop production, the strings felt very professional.
 
 Track 2: [Same Sky, Same Joke]
+
 https://suno.com/s/Qsc1vC5Bvc8W18A4
+
 I selected this track for its Emotional impact. I changed a little bit in the base prompt, I
 wanted lyrics leading the song to be deeper in content. The AI's vocal delivery mark sounds
 incredibly authentic, but I am quite not satisfied with the lyrics perfectly, they had some
