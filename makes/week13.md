@@ -1,8 +1,16 @@
 # Week 13 – Futures of AI & Humanity
 
 ## The Artifact
-Describe or embed your artifact here.
-Include images, links, or media as appropriate.
+
+**Lumberton AI Unit: Environmental & Labor Disclosure Certificate (2055)**
+
+Future Date: October 12, 2055.
+
+Description: A legally mandated digital certificate accompanying all AI hardware in 2055. It
+forces corporations to disclose the actual material and human costs behind their algorithms,
+effectively ending the era of "invisible" environmental damage.
+
+<img width="536" height="509" alt="Ảnh màn hình 2026-05-12 lúc 7 56 17 CH" src="https://github.com/user-attachments/assets/5e48c445-4582-4a78-b1b4-1db9de5b1c77" />
 
 ## Context Statement
 
