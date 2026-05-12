@@ -2,29 +2,37 @@
 
 ## The Artifact
 Tools used: Suno AI (https://suno.ai)
+
 Base prompt: A sentimental J-Pop anime opening style. Upbeat but bittersweet melody, a
 funky bassline inspired by "Lemon." Positive, nostalgic, high energy, crisp production.
+
 <img width="642" height="341" alt="Ảnh màn hình 2026-05-12 lúc 7 45 48 CH" src="https://github.com/user-attachments/assets/188b901d-3320-4da4-9145-45f00a65f986" />
+
 Change "J-Pop" to "Acoustic City Pop"
+
 <img width="642" height="328" alt="Ảnh màn hình 2026-05-12 lúc 7 46 39 CH" src="https://github.com/user-attachments/assets/0f178224-ece4-427f-b47e-06143007ebf3" />
+
 Add lyrics about a boy and girl who share the same niche jokes and sense of humor.
+
 <img width="642" height="328" alt="Ảnh màn hình 2026-05-12 lúc 7 46 39 CH" src="https://github.com/user-attachments/assets/0f178224-ece4-427f-b47e-06143007ebf3" />
+
 Curated Outputs
 The Curation process from a total of 9 generated tracks.
+
 Track 1: [Love or lemon]
 https://suno.com/s/QJc21gZ0mqg0aaYH
 This track clearly demonstrates the best 'Anime vibe' because the chorus suddenly shifted the
 rhythm in a way that fit perfectly. It also has excellent conceptual fit with my initial prompt
 about a real J-Pop production, the strings felt very professional.
+
 Track 2: [Same Sky, Same Joke]
 https://suno.com/s/Qsc1vC5Bvc8W18A4
 I selected this track for its Emotional impact. I changed a little bit in the base prompt, I
 wanted lyrics leading the song to be deeper in content. The AI's vocal delivery mark sounds
 incredibly authentic, but I am quite not satisfied with the lyrics perfectly, they had some
 accident when they used the wrong language.
-During the curation process, I explicitly rejected the other tracks because it was too formulaic
-and lacked focus, the melody just flowed stably. Rejecting these duds was as much a part of
-my creative process as selecting the best ones.
+
+During the curation process, I explicitly rejected the other tracks because it was too formulaic and lacked focus, the melody just flowed stably. Rejecting these duds was as much a part of my creative process as selecting the best ones.
 
 
 ## Process Documentation
