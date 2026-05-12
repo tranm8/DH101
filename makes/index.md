@@ -1,10 +1,17 @@
-# My Makes
+# Museum of Makes
 
-## Final Portfolio Makes
+## A Critical Making Gallery
 
-- [Week 3: AI Selfie](week03.html)
-- [Week 4: Comic & Storytelling](week04.html)
-- [Week 7: Mapping AI Worlds](week07.html)
-- [Week 8: Networks of Knowledge & Power](week08.html)
-- [Week 10: Twine Game](week10.html)
-- [Week 12: AI & Ecology](week12.html)
+This gallery collects my major “Makes” from the course. Each project explores how AI shapes identity, storytelling, space, knowledge, labor, and ecology.
+
+- [The Algorithmic Selfie: Seeing Myself Through AI](week03.html)
+
+- [Framed by the Machine: A Comic on AI Storytelling](week04.html)
+
+- [Mapping the Hidden Geography of AI](week07.html)
+
+- [Networks of Knowledge and Power](week08.html)
+
+- [Choose Your Algorithm: A Twine Story](week10.html)
+
+- [Clouds Have Bodies: AI, Ecology, and Extraction](week12.html)
