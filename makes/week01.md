@@ -1,7 +1,4 @@
----
-layout: default
-title: The Archive as an Argument
----
+
 
 # The Archive as an Argument
 
