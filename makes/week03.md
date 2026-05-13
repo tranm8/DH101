@@ -1,3 +1,8 @@
+---
+layout: default
+title: When AI Makes Me Too Perfect
+---
+
 # When AI Makes Me Too Perfect
 
 *A critical selfie experiment about AI, beauty, identity, and the loss of human imperfections.*
@@ -43,8 +48,10 @@ The AI created a digital selfie where my hair and general style were recognized 
 I chose to interact more directly with the AI by describing specific features that I wanted it to preserve. I told the AI that my nose is larger at the tip, that I have hidden double eyelids, and that my upper lip is thicker than my lower lip. I did this to push the AI beyond its default “pretty girl” template and closer to my own unique physical structure.
 
 ---
+
 <div class="make-navigation">
-  <a href="/DH101/makes/" class="make-button main">← Back to Museum of Makes</a>
+  <a href="/DH101/makes/week01.html" class="make-button">← Previous Make</a>
+  <a href="/DH101/makes/" class="make-button main">Back to Museum of Makes</a>
   <a href="/DH101/index.html" class="make-button">Back to Home</a>
   <a href="/DH101/makes/week04.html" class="make-button">Next Make →</a>
 </div>
