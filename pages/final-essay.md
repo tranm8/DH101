@@ -1,8 +1,8 @@
 ---
 layout: default
-title: Final Reflective Essay
+title: Human + AI Statement
 ---
-# Final Reflective Essay: What Does It Mean to Be Human in the Age of AI?
+# Human + AI Statement: What Does It Mean to Be Human in the Age of AI?
 
 What does it mean to be human in the age of AI? After taking DH101: Critical Making in the Age of AI, my answer is that being human means more than simply using advanced tools. It means making, questioning, revising, caring, and taking responsibility for the systems we help create. AI can write, draw, code, summarize, and generate new ideas, but it does not remove the need for human judgment. In fact, the more powerful AI becomes, the more important human responsibility becomes. My central argument is that being human in the age of AI means refusing to become a passive user of technology. Instead, we must become critical makers who understand that digital tools are connected to identity, labor, power, bias, and the environment.
 
@@ -17,5 +17,9 @@ The environmental side of AI also changed my understanding of what it means to b
 The course also made me think about invisible labor. AI can appear automatic, but many people contribute to its operation, including data labelers, content moderators, miners, engineers, and users whose data becomes part of training systems. When we only focus on the final AI output, we may forget the human labor behind it. This connects to one of the strongest lessons of the semester: technology often hides the people who make it possible. Being human in the age of AI means making that labor visible and refusing to treat digital systems as magic.
 
 My website portfolio is one way of practicing this responsibility. I included attribution boxes because I wanted to show which tools I used, what AI helped generate, and what I created or edited myself. This kind of transparency matters because AI can blur the boundary between human and machine work. Instead of pretending that I made everything alone, I wanted to document the collaboration honestly. At the same time, I also wanted to show that AI did not replace my thinking. I made choices, revised ideas, tested links, selected artifacts, and connected my projects to course themes.
+
+## Ethical Considerations
+
+Using AI responsibly means asking what it hides, who benefits from it, and who may be harmed by it. In my projects, I tried to document my AI use honestly, make hidden labor visible, and connect digital creativity to environmental and social responsibility.
 
 In the end, I do not think being human in the age of AI means rejecting technology completely. It also does not mean accepting every new tool without question. To be human in the age of AI means living in the tension between creativity and critique. It means using AI when it helps, but also asking what it hides, who it benefits, and who it harms. It means remembering that speed is not the same as wisdom, and generation is not the same as understanding. Through critical making, I learned that humans still have an essential role: to question systems, care about consequences, and imagine better futures. AI can generate, but humans must take responsibility for meaning.
