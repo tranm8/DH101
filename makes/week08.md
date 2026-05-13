@@ -1,56 +1,62 @@
-# Week 8 – Networks of Knowledge & Power
+# Cartography of the Invisible
 
-## The Artifact
+*A network visualization showing how AI is built through corporate power, resource extraction, data labor, and environmental cost.*
+
+---
+
+## The Make
+
+This network visualizes AI not as a clean “cloud,” but as a messy system of companies, technologies, minerals, labor, data centers, and waste. The graph shows how artificial intelligence depends on both high-tech corporate power and hidden human and ecological costs.
 
 <img width="3803" height="1723" alt="A network visualization showing relationships among AI companies, technologies, labor, ethics, and power structures" src="https://github.com/user-attachments/assets/5fe6a45f-e30d-4476-a2d4-73dbe7aa125c" />
 
-## Network Analysis
+---
 
-This complex network graph displays the global interchange of capital and raw physical resources and
-how those two sets of elements impact the AI supply chain production, but as a messy, interconnected
-web of extraction, power, and consequence. It highlights the "hidden" costs of artificial intelligence: the
-physical labor and environmental toll that contrast with the "ethereal" nature of the cloud.
+## My Take
 
-Nodes that have the most connections (high degree) and the ability to connect many other sources of raw
-materials (high betweenness centrality) are TSMC, NVIDIA, and Data Centers in the USA. TSMC serves
-as the ultimate bottleneck for producing chips from ASML's high-end lithography equipment because it is
-the only facility that can manufacture the final physical product from the equipment, and all raw materials
-in the AI supply chain must go through them. NVIDIA and Data Centers in the USA serve as the "brain"
-of the network and are responsible for determining where capital flows and where processing power is
-used.
+This network graph displays the global flow of capital, raw materials, labor, and infrastructure that supports the AI supply chain. Instead of presenting AI as a smooth, invisible, or “cloud-like” technology, the visualization shows it as a messy web of extraction, power, and consequence.
 
-Clusters or different groups also emerge as being connected based on geographic location. For example,
-there is a resource extraction cluster (i.e., Copper Mine, Cobalt Mine, Lithium) that feeds into a central
-manufacturing hub (i.e., TSMC, Foxconn), which is ultimately governed by US Technology & Capital
-factories (i.e., Apple, Microsoft, OpenAI). While the network says that "this uses water", it does not say
-how much. Environmental damage appears to be just a simple connection (edge) rather than a cumulative
-risk. By focusing on just the corporation's links, the mapping obscures the true costs (carbon, heat and
-waste) that are not reflected in a corporation's financial statements associated with ecological collapse.
-Ecological collapse is presented as merely a binary connection rather than a cumulative systemic risk,
-highlighting the limitation of viewing dynamic environmental systems with a single view through static
-corporate connections.
+The most connected nodes in my network are **TSMC, NVIDIA, and Data Centers in the USA**. These nodes act as major centers of power because many other parts of the AI system depend on them. TSMC appears as an important manufacturing bottleneck because advanced chip production depends on highly specialized fabrication. NVIDIA functions as a central node because its GPUs power much of today’s AI computation. Data centers in the United States also appear central because they transform energy, water, and hardware into the processing power that users experience as “AI.”
 
-## Artist Statement 
+Several clusters appear in the network. One cluster focuses on **resource extraction**, including copper, cobalt, and lithium. Another cluster focuses on **manufacturing**, including companies such as TSMC and Foxconn. A third cluster centers on **U.S. technology and capital**, including companies such as Apple, Microsoft, and OpenAI. These clusters show that AI is not created in one place. It is assembled through a global system of mines, factories, servers, corporations, and workers.
 
-The Blue lines show the money and proprietary technology flowing between giants like ASML, NVIDIA,
-and Microsoft. These are the famous, "clean" links we usually see. In contrast, the Green lines map
-extract the raw materials like Copper and Lithium. It highlights the massive environmental debt we owe
-the Earth. The Red lines are the most critical. They mark zones of exploitation, tracing the path from
-underpaid Data Labelers in Kenya to toxic E-waste Dumps in Ghana.
+However, the network also reveals its own limitation. A line can show that a company “uses water” or depends on extraction, but it cannot fully show how much damage accumulates over time. Environmental harm appears as a simple edge, even though carbon emissions, heat, water stress, and electronic waste are cumulative risks. This limitation matters because corporate networks often make ecological collapse look like a small connection rather than a large systemic cost.
 
-If this network were reorganized to prioritize real human and ecological costs instead of market value, the
-picture would completely change. Large tech companies would appear smaller, while the often
-overlooked nodes of resource extraction and waste would become more prominent. This work serves as a
-cartography of the invisible. We are often told that Artificial Intelligence is a product of pure math and the weightless, placeless entity. This visualization deconstructs that myth, revealing that the "intelligence" we interact with is actually composed of Chilean copper, Congolese cobalt, and the manual labor of thousands in the Global South. The central cluster forms a "technological heart," but the arteries
-extending to Ghana, Kenya, and Chile remind the viewer that this heart beats only by draining resources
-from the edges of the map. It is a portrait of a system where the "future" is built on the ancient bedrock of resource extraction.
+---
+
+## Curatorial Statement
+
+The blue lines represent flows of money, proprietary technology, and corporate power between major companies such as ASML, NVIDIA, Microsoft, and OpenAI. These are the “clean” links that the public usually sees: innovation, investment, software, and profit.
+
+The green lines represent raw materials such as copper, lithium, and cobalt. These connections reveal the environmental debt hidden behind AI. The red lines are the most critical because they show exploitation: underpaid data labelers in Kenya, toxic e-waste sites in Ghana, and communities that absorb the damage of the digital economy.
+
+If this network were reorganized to prioritize human and ecological costs instead of market value, the image would look very different. Large technology companies would become less dominant, while the overlooked nodes of mining, waste, and labor would become central. This project therefore acts as a **cartography of the invisible**.
+
+We are often told that artificial intelligence is made of pure math, code, and computation. This visualization challenges that myth. The “intelligence” we interact with is also made of Chilean copper, Congolese cobalt, Taiwanese chip fabrication, American data centers, and the manual labor of workers in the Global South.
+
+The center of the graph forms a kind of **technological heart**, but the lines extending toward Ghana, Kenya, Chile, and the Democratic Republic of Congo show that this heart beats by drawing resources from the edges of the map. AI is not weightless. It is built on land, labor, water, minerals, and waste.
+
+---
 
 ## Attribution & AI Use
 
-**- Tools used:** Palladio, ChatGPT, GitHub Pages, and Markdown.
+### Tools Used
 
-**- AI prompts (summary):** I used AI to help brainstorm how to explain my network visualization and connect it to power, visibility, and hidden relationships in AI systems.
+Palladio, ChatGPT, GitHub Pages, and Markdown.
 
-**- What AI generated:** AI suggested possible reflection language, key terms, and ways to describe the meaning of nodes, edges, and visibility in the network.
+### AI Prompts Summary
 
-**- What you changed or decided:** I chose the topic, selected the relationships to include, created the network structure, revised the explanation, and connected the project to DH101 themes about knowledge, power, and invisible labor.
+I used AI to help brainstorm how to explain my network visualization and connect it to power, visibility, labor, and hidden relationships in AI systems.
+
+### What AI Generated
+
+AI suggested possible reflection language, key terms, and ways to describe the meaning of nodes, edges, and visibility in the network.
+
+### What I Changed or Decided
+
+I chose the topic, selected the relationships, created the network structure, revised the explanation, and connected the project to DH101 themes about knowledge, power, and invisible labor. I also decided which nodes and connections mattered most for showing the hidden material reality of AI.
+
+---
+
+[← Back to Museum of Makes](../makes/)  
+[Back to Home](../index.html)
