@@ -74,8 +74,8 @@ I believe AI is most useful for brainstorming, editing, and critique. It can hel
 
 ---
 <div class="make-navigation">
-  <a href="week08.html" class="button secondary">← Previous Make</a>
-  <a href="../makes/" class="button">Back to Museum of Makes</a>
-  <a href="../index.html" class="button secondary">Back to Home</a>
-  <a href="week12.html" class="button secondary">Next Make →</a>
+  <a href="/DH101/makes/week08.html" class="make-button">← Previous Make</a>
+  <a href="/DH101/makes/" class="make-button main">Back to Museum of Makes</a>
+  <a href="/DH101/index.html" class="make-button">Back to Home</a>
+  <a href="/DH101/makes/week12.html" class="make-button">Next Make →</a>
 </div>
