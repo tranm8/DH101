@@ -51,3 +51,9 @@ A Twine game about leadership, automation, profit, ethics, and human accountabil
 A visual research artifact about AI, ecology, extraction, water, energy, and the hidden material costs behind the “cloud.”
 
 ---
+
+### [The Cloud Must Confess](week13.html)
+
+A speculative design fiction artifact from 2055 imagining mandatory AI environmental and labor disclosure.
+
+---
