@@ -70,4 +70,5 @@ I chose the final environmental focus, selected the visual structure, revised th
   <a href="/DH101/makes/week10.html" class="make-button">← Previous Make</a>
   <a href="/DH101/makes/" class="make-button main">Back to Museum of Makes</a>
   <a href="/DH101/index.html" class="make-button">Back to Home</a>
+  <a href="/DH101/makes/week13.html" class="make-button">Next Make →</a>
 </div>
