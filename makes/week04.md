@@ -41,6 +41,9 @@ I used ChatGPT to help organize and polish my commentary. The AI helped me make 
 I decided to keep the comic simple and personal instead of making it dramatic. I also chose to keep the Vietnamese language because translating the joke into English would make it feel less natural. My main goal was to preserve the real rhythm of how my friend and I joke with each other.
 
 ---
-
-[← Back to Museum of Makes](../makes/)  
-[Back to Home](../index.html)
+<div class="make-navigation">
+  <a href="week03.html" class="button secondary">← Previous Make</a>
+  <a href="../makes/" class="button">Back to Museum of Makes</a>
+  <a href="../index.html" class="button secondary">Back to Home</a>
+  <a href="week07.html" class="button secondary">Next Make →</a>
+</div>
