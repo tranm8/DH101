@@ -67,7 +67,7 @@ I chose the final environmental focus, selected the visual structure, revised th
 
 ---
 <div class="make-navigation">
-  <a href="week10.html" class="button secondary">← Previous Make</a>
-  <a href="../makes/" class="button">Back to Museum of Makes</a>
-  <a href="../index.html" class="button secondary">Back to Home</a>
+  <a href="/DH101/makes/week10.html" class="make-button">← Previous Make</a>
+  <a href="/DH101/makes/" class="make-button main">Back to Museum of Makes</a>
+  <a href="/DH101/index.html" class="make-button">Back to Home</a>
 </div>
