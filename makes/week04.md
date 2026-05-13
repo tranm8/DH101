@@ -42,8 +42,8 @@ I decided to keep the comic simple and personal instead of making it dramatic. I
 
 ---
 <div class="make-navigation">
-  <a href="week03.html" class="button secondary">← Previous Make</a>
-  <a href="../makes/" class="button">Back to Museum of Makes</a>
-  <a href="../index.html" class="button secondary">Back to Home</a>
-  <a href="week07.html" class="button secondary">Next Make →</a>
+  <a href="/DH101/makes/week03.html" class="make-button">← Previous Make</a>
+  <a href="/DH101/makes/" class="make-button main">Back to Museum of Makes</a>
+  <a href="/DH101/index.html" class="make-button">Back to Home</a>
+  <a href="/DH101/makes/week07.html" class="make-button">Next Make →</a>
 </div>
