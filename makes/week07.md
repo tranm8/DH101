@@ -1,35 +1,72 @@
-# Week 7 – Mapping AI Worlds
+# AI’s Death Geography
 
-## The Artifact
+*A counter-map tracing how one AI prompt depends on minerals, water, data centers, and hidden human labor.*
 
-You can find my map here: [AI Infrastructure Map](https://www.google.com/maps/d/edit?mid=1-8uqDGMj1w6dSLQ_XFdLALhfYNkGjmc&ll=2.912516968543734%2C0&z=2)
+---
 
-## Reflection
+## The Make
 
-My research focused on following the life cycle of an AI prompt from mineral extraction to human moderation. I primarily used Kate Crawford ‘s Atlas of AI, which argues that AI is neither "thin" nor "cloud-like" but deeply embodied in Earth’s geology, and investigative reports from Rest of World and The Guardian. 
+This interactive map follows the life cycle of an AI prompt, from mineral extraction and data center infrastructure to human moderation and data labeling labor.
 
-The hardest data to find was the specific location of data labeling farms in the Global South. While a corporate HQ has a prestigious Silicon Valley address, the "sweatshops" of the digital age are intentionally obscured.These are often hidden behind layers of subcontractors (like Sama or Appen) and strict Non-Disclosure Agreements. This difficulty reveals a central power dynamic: The tech industry wants us to admire the “magic” of the interface while rendering the human labor that “cleans” this information invisible. This missing data is a corporate design choice to decouple the illusion of AI polish from the brutal human drudgework behind it.
+<div class="map-embed">
+  <iframe 
+    src="https://www.google.com/maps/d/embed?mid=1-8uqDGMj1w6dSLQ_XFdLALhfYNkGjmc&ehbc=2E312F"
+    width="100%" 
+    height="520"
+    style="border:0;"
+    loading="lazy"
+    allowfullscreen>
+  </iframe>
+</div>
 
-What surprised me most was the sheer volume of water required for cooling. While these companies market themselves as "green" and "virtual," the physical infrastructure required to support their operations, a single conversation with an LLM (roughly 20-50 questions) can drink a 500 ml bottle of water. Mapping these data centers against regions of water scarcity revealed a looming environmental conflict. ​It was a "lightbulb moment" to realize that every time we generate an AI image or text, we are essentially "drinking" from the dwindling water reserves of these drought-stricken areas.
+[Open the full AI Infrastructure Map](https://www.google.com/maps/d/edit?mid=1-8uqDGMj1w6dSLQ_XFdLALhfYNkGjmc&ll=2.912516968543734%2C0&z=2)
 
-This project totally recontextualised AI for me: it is not some digital miracle, but a gigantic industrial process of converting natural resources such as lithium, cobalt, and water into the processing capability of cyberspace. The map proves that the "intelligence" of the Global North is physically built upon the resources and labor of the Global South, creating a new form of digital colonialism.
+---
 
-## Artist Statement 
+## My Take
 
-According to my map, most major AI software companies are concentrated in California, USA. This raises an important question: does this concentration contribute to the state’s current water shortages? The dense ecological footprint of these AI companies creates a paradox where global technological innovation can worsen local environmental vulnerability.
+My research focused on following the life cycle of an AI prompt from mineral extraction to human moderation. I primarily used Kate Crawford’s *Atlas of AI*, which argues that AI is not “thin” or “cloud-like,” but deeply embodied in Earth’s geology. I also used investigative reports from *Rest of World* and *The Guardian* to understand the hidden labor behind AI systems.
 
-This project applies the Data Feminism principle of “Making Labor Visible.” Instead of accepting the top-down perspective of tech CEOs, the map highlights different experiences. The blue markers represent the wealth and decision-making power concentrated in Silicon Valley, while the red and orange markers show the environmental and human costs spread across other regions. My map uses Counter-mapping to challenge dominant narratives. It asks a critical question: Who pays the cost so that a user in the United States can generate an AI image in five seconds?
+The hardest data to find was the specific location of data-labeling farms in the Global South. While a corporate headquarters often has a prestigious Silicon Valley address, the “sweatshops” of the digital age are intentionally obscured. These sites are often hidden behind subcontractors such as Sama or Appen, as well as strict non-disclosure agreements. This difficulty reveals a central power dynamic: the tech industry wants users to admire the “magic” of the interface while making the human labor that cleans and moderates this information invisible.
 
-The map also suggests that AI has a “death geography.” By spatializing hidden costs, the map turns a virtual technology into a material reality of resource extraction and labor exploitation. If this map were drawn from a CEO’s perspective, it would likely show only growth, innovation, and profit. But from the perspective of a Congolese miner or a data labeler in Kenya, the map reveals a geopolitical injustice that connects the colonial era to today’s digital economy.
+What surprised me most was the amount of water required for cooling data centers. While AI companies often describe themselves as “green” and “virtual,” their infrastructure is deeply physical. A single conversation with a large language model can require significant water and energy behind the scenes. Mapping data centers against regions of water scarcity helped me see a looming environmental conflict. It was a lightbulb moment to realize that every time we generate AI text or images, we may also be drawing from limited water reserves in already vulnerable regions.
 
-This pattern reflects Digital Colonialism: raw minerals are extracted from these regions, used to generate wealth in California, and the toxic waste and environmental damage are often returned to the same communities.
+This project recontextualized AI for me. AI is not simply a digital miracle. It is a large industrial system that converts natural resources, such as lithium, cobalt, and water, into computational power. My map shows that the “intelligence” of the Global North is often physically built upon the resources and labor of the Global South. In this sense, AI can reproduce a new form of digital colonialism.
+
+---
+
+## Curatorial Statement
+
+This project applies the *Data Feminism* principle of “making labor visible.” Instead of accepting the top-down perspective of tech CEOs, my map highlights different experiences and power relations. The blue markers represent wealth, corporate headquarters, and decision-making power concentrated in places like Silicon Valley. The red and orange markers reveal environmental and human costs distributed across other regions.
+
+My map uses counter-mapping to challenge dominant narratives about AI. It asks a critical question: **Who pays the cost so that a user in the United States can generate an AI image in five seconds?**
+
+The map also suggests that AI has a “death geography.” By spatializing hidden costs, the map turns a supposedly virtual technology into a material reality of extraction, water consumption, and labor exploitation. If this map were drawn from a CEO’s perspective, it would likely show growth, innovation, and profit. But from the perspective of a Congolese miner or a Kenyan data labeler, the map reveals geopolitical injustice connecting colonial extraction to today’s digital economy.
+
+This pattern reflects digital colonialism: raw minerals are extracted from vulnerable regions, transformed into wealth for technology companies, and often leave behind pollution, exhaustion, and environmental damage in the same communities.
+
+---
 
 ## Attribution & AI Use
 
-**Theory:** Crawford, Kate. Atlas of AI (2021); D'Ignazio & Klein, Data Feminism (2020).
+### Theory
 
-​**Data:** Time Magazine (Kenyan workers exposé); Rest of World (Global AI labor reports), U.S. Geological Survey (Mining sites); Greenpeace (Data center energy reports).
-​Tools: Google My Maps.
+Kate Crawford, *Atlas of AI*  
+D’Ignazio and Klein, *Data Feminism*
 
-​**AI Disclosure:** Google AI was used for English translation refinement, and brainstorming thematic connections. 
+### Data Sources
 
+Time Magazine, reporting on Kenyan AI workers  
+Rest of World, reporting on global AI labor  
+U.S. Geological Survey, mining data  
+Greenpeace, data center energy reports  
+Google My Maps
+
+### AI Disclosure
+
+I used AI tools to refine English phrasing and brainstorm thematic connections. The map concept, marker choices, research direction, and critical argument were my own decisions.
+
+---
+
+[← Back to Museum of Makes](../makes/)  
+[Back to Home](../index.html)
