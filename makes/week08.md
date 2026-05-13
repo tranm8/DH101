@@ -58,8 +58,8 @@ I chose the topic, selected the relationships, created the network structure, re
 
 ---
 <div class="make-navigation">
-  <a href="week07.html" class="button secondary">← Previous Make</a>
-  <a href="../makes/" class="button">Back to Museum of Makes</a>
-  <a href="../index.html" class="button secondary">Back to Home</a>
-  <a href="week10.html" class="button secondary">Next Make →</a>
+  <a href="/DH101/makes/week07.html" class="make-button">← Previous Make</a>
+  <a href="/DH101/makes/" class="make-button main">Back to Museum of Makes</a>
+  <a href="/DH101/index.html" class="make-button">Back to Home</a>
+  <a href="/DH101/makes/week10.html" class="make-button">Next Make →</a>
 </div>
