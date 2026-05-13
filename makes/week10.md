@@ -73,6 +73,9 @@ I revised several branches after receiving feedback. I changed choices that felt
 I believe AI is most useful for brainstorming, editing, and critique. It can help me notice gaps, but it should not replace my own argument, voice, or design choices. For this assignment, I used AI to support revision and reflection while keeping the project’s final direction and meaning under my control.
 
 ---
-
-[← Back to Museum of Makes](../makes/)  
-[Back to Home](../index.html)
+<div class="make-navigation">
+  <a href="week08.html" class="button secondary">← Previous Make</a>
+  <a href="../makes/" class="button">Back to Museum of Makes</a>
+  <a href="../index.html" class="button secondary">Back to Home</a>
+  <a href="week12.html" class="button secondary">Next Make →</a>
+</div>
