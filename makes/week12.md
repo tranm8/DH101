@@ -66,6 +66,8 @@ AI suggested possible wording, key concepts, and ways to connect my artifact to 
 I chose the final environmental focus, selected the visual structure, revised the language, checked the ideas against course themes, and connected the project to DH101 discussions about AI, ecology, ethics, and responsibility.
 
 ---
-
-[← Back to Museum of Makes](../makes/)  
-[Back to Home](../index.html)
+<div class="make-navigation">
+  <a href="week10.html" class="button secondary">← Previous Make</a>
+  <a href="../makes/" class="button">Back to Museum of Makes</a>
+  <a href="../index.html" class="button secondary">Back to Home</a>
+</div>
