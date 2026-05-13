@@ -1,34 +1,93 @@
-# Week 1 – Reverse Engineering
+---
+layout: default
+title: The Archive as an Argument
+---
 
-## The Artifact
-Project Chosen:
-Photogrammar
-https://photogrammar.yale.edu
+# The Archive as an Argument
 
-## Process Notes
-​1. What Is Being Made?
+*A reverse-engineering project about how historical photographs become searchable data, visual knowledge, and public memory.*
 
-Photogrammar creates a digital platform that transforms a historical photo archive into searchable, analyzable, and visualizable data for research and education.
+---
 
-​2. What Is the Project Made From? (Data)
+## The Make
 
-Digitized photographs from the FSA–OWI archive (1935–1945) serve as the input data for the system. From there, the photos' metadata is classified, including time, space, author, subject, text description, etc. However, there are people who were not photographed; this is a political absence, not accidental, leading to a lack of full socio-political context. Visualization both opens up understanding and obscures depth.
+For this reverse-engineering Make, I chose to study **Photogrammar**, a digital humanities project created by Yale University.
 
-​3. Tools, Algorithms, or Systems
+[Visit Photogrammar](https://photogrammar.yale.edu)
 
-Photogrammar uses an interactive web system consisting of a frontend (HTML, CSS, JavaScript) and a backend (web server, internal APIs for the frontend to call data). The original photo data links to the Library of Congress, allowing for querying, filtering, and connecting data. GIS, visualization tools, and historical classification models are used to transform the photo archive into explorable data.
+Photogrammar transforms the FSA–OWI historical photo archive from 1935–1945 into a searchable, analyzable, and visualizable digital platform. Instead of presenting photographs as isolated images, the project connects them through metadata, maps, timelines, treemaps, and classification systems.
 
-​4. Human Labor & Decisions
+---
 
-The original photos were taken by government photographers and archivists working for US federal agencies (1935–1945). These were the primary data collectors. The Photogrammar team (21st century) chose metadata fields, standardized data, and decided on visualization methods. They did not create the photos, but they shaped how the data is understood today. Every decision regarding capturing, describing, classifying, and visualizing reflects human perspectives, biases, and choices.
+## Reverse Engineering Notes
 
-​5. Design as Argument
+### What Is Being Made?
 
-Photogrammar highlights large patterns and easily quantifiable data: Treemaps and subject classification, Timelines, and ColorSpace. However, it is difficult to see the voices of the people in the photos, the full social context, under-photographed groups, sub-themes, and complex/emotional experiences.
+Photogrammar creates a digital platform that turns a historical photo archive into a system for research, education, and visual exploration. It allows users to search, filter, map, and analyze photographs that originally existed as part of a large government archive.
 
-## Reflection
+### What Is the Project Made From?
 
-When exploring Photogrammar, I was truly impressed by how an old historical photo archive becomes a vivid digital experience. Interacting with the maps, timelines, or treemaps, I feel not just the photos, but the story of America during the years 1935–1945.
-​In this project, “making” is not just taking photos but creating a historical data product that can be accessed, analyzed, and visualized. Each photo is an individual moment, but when connected with metadata, it becomes a piece in a vast historical puzzle. Photographers decided which scenes were worth capturing, archivists decided on captions and classification, and the Photogrammar team decided how to visualize and organize the data. Thus, “making” here is the creation and arrangement of data, knowledge, and experience, not just photography.
-​I realize that all data is a human product; therefore, every decision bears the mark of personal perspectives, biases, and feelings. If machines, such as AI, participate in this process, some things will change: it will be more efficient—machines can classify photos, find patterns, or create suggested visualizations that humans might miss. What I find interesting is that when machines participate, the human role does not disappear but shifts toward directing, censoring, and making decisions about meaning. “Making” now becomes a process of negotiation between intuition, intent, and machine logic.
+The project is built from digitized photographs from the **Farm Security Administration–Office of War Information archive**, created between 1935 and 1945. These photographs include metadata such as time, location, photographer, subject, and textual description.
 
+However, the archive is not complete or neutral. Some people, places, and experiences were not photographed or were not described fully. These absences are political, not accidental. Photogrammar makes the archive easier to explore, but it also reminds me that visualization can both reveal patterns and hide deeper social context.
+
+### Tools, Algorithms, and Systems
+
+Photogrammar uses an interactive web system with a frontend built from web technologies such as HTML, CSS, and JavaScript. It also relies on a backend system that connects the website to photo data and metadata. The project links back to the Library of Congress archive and uses mapping, filtering, classification, and visualization tools to make the archive explorable.
+
+GIS tools, timelines, treemaps, and subject classifications transform the photo archive into something users can navigate. The result is not just a collection of images, but a structured system of historical knowledge.
+
+### Human Labor and Decisions
+
+The original photos were created by government photographers and archivists working for U.S. federal agencies during the 1930s and 1940s. These photographers made decisions about where to go, what to capture, and how to frame people and places.
+
+Later, archivists and the Photogrammar team made additional decisions about captions, metadata fields, categories, standardization, and visualization. The Photogrammar team did not create the original photographs, but they shaped how users understand the archive today. Every decision about capturing, describing, classifying, and visualizing reflects human choices, perspectives, and biases.
+
+### Design as Argument
+
+Photogrammar makes large patterns visible. Its maps, timelines, treemaps, and color tools help users see relationships across geography, time, photographer, and subject. This design argues that a photo archive is not only a storage system, but also a way to produce historical knowledge.
+
+At the same time, the project has limits. It is easier to see patterns that can be counted or mapped than to see emotion, memory, voice, trauma, or absence. The people inside the photographs may become data points, while their full lived experiences remain harder to access.
+
+---
+
+## My Take
+
+When exploring Photogrammar, I was impressed by how an old historical photo archive could become a vivid digital experience. By interacting with the maps, timelines, and treemaps, I did not only see individual photographs. I began to see a larger story about America during the years 1935–1945.
+
+This project helped me understand that “making” is not only about creating something new from nothing. In Photogrammar, making also means organizing, classifying, connecting, and presenting existing materials in a new way. Each photo is an individual moment, but when it is connected with metadata, it becomes part of a larger historical puzzle.
+
+Photographers decided which scenes were worth capturing. Archivists decided how to describe and classify the images. The Photogrammar team decided how to visualize and organize the data. Because of this, making is not just photography. It is also the creation and arrangement of data, knowledge, and user experience.
+
+This project also made me realize that data is always a human product. Every dataset carries traces of personal perspective, institutional power, bias, and absence. If machines or AI systems participate in this process, the work may become faster and more efficient. AI might classify photos, find patterns, or suggest visualizations that humans might miss.
+
+However, the human role does not disappear. Instead, it shifts. Humans still need to direct the system, check its interpretations, question what is missing, and decide what the data means. In this sense, making becomes a negotiation between human intention, historical context, and machine logic.
+
+---
+
+## Attribution & AI Use
+
+### Project Studied
+
+Photogrammar, Yale University  
+[https://photogrammar.yale.edu](https://photogrammar.yale.edu)
+
+### Tools Used
+
+Photogrammar website, course reverse-engineering framework, Markdown, GitHub Pages, and ChatGPT.
+
+### AI Role
+
+I used AI to help organize and polish my reflection into clearer sections. AI helped improve the wording and structure, but the project choice, analysis, observations, and interpretation came from my own exploration of Photogrammar.
+
+### What I Changed or Decided
+
+I chose Photogrammar because it connects photography, history, data, and visualization. I decided to focus on how the project turns an archive into an argument, and how human decisions shape what becomes visible or invisible in a digital system.
+
+---
+
+<div class="make-navigation">
+  <a href="/DH101/makes/" class="make-button main">← Back to Museum of Makes</a>
+  <a href="/DH101/index.html" class="make-button">Back to Home</a>
+  <a href="/DH101/makes/week03.html" class="make-button">Next Make →</a>
+</div>
