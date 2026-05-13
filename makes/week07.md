@@ -68,8 +68,8 @@ I used AI tools to refine English phrasing and brainstorm thematic connections. 
 
 ---
 <div class="make-navigation">
-  <a href="week04.html" class="button secondary">← Previous Make</a>
-  <a href="../makes/" class="button">Back to Museum of Makes</a>
-  <a href="../index.html" class="button secondary">Back to Home</a>
-  <a href="week08.html" class="button secondary">Next Make →</a>
+  <a href="/DH101/makes/week04.html" class="make-button">← Previous Make</a>
+  <a href="/DH101/makes/" class="make-button main">Back to Museum of Makes</a>
+  <a href="/DH101/index.html" class="make-button">Back to Home</a>
+  <a href="/DH101/makes/week08.html" class="make-button">Next Make →</a>
 </div>
