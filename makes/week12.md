@@ -8,18 +8,6 @@
 
 This artifact visualizes AI as a material system rather than a weightless digital service. It connects the everyday use of AI to resource extraction, data centers, water consumption, energy demand, labor, and electronic waste.
 
-<!-- If you have a Canva embed link, replace the iframe src below with your Canva embed URL. -->
-<div class="canva-embed">
-  <iframe 
-    src="PASTE-YOUR-CANVA-EMBED-LINK-HERE"
-    title="The Cloud Has a Body Canva Artifact"
-    width="100%"
-    height="520"
-    loading="lazy"
-    allowfullscreen>
-  </iframe>
-</div>
-
 <!-- Keep this image as backup if the embed does not work. -->
 <img width="1055" height="465" alt="A visual artifact about the hidden environmental costs of AI, including energy use, water consumption, resource extraction, and e-waste" src="https://github.com/user-attachments/assets/75c16c4f-f41a-4f8c-8c9a-b12c3ae526d9" />
 
