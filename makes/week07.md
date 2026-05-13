@@ -67,6 +67,9 @@ Google My Maps
 I used AI tools to refine English phrasing and brainstorm thematic connections. The map concept, marker choices, research direction, and critical argument were my own decisions.
 
 ---
-
-[← Back to Museum of Makes](../makes/)  
-[Back to Home](../index.html)
+<div class="make-navigation">
+  <a href="week04.html" class="button secondary">← Previous Make</a>
+  <a href="../makes/" class="button">Back to Museum of Makes</a>
+  <a href="../index.html" class="button secondary">Back to Home</a>
+  <a href="week08.html" class="button secondary">Next Make →</a>
+</div>
