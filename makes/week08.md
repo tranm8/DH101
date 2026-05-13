@@ -57,6 +57,9 @@ AI suggested possible reflection language, key terms, and ways to describe the m
 I chose the topic, selected the relationships, created the network structure, revised the explanation, and connected the project to DH101 themes about knowledge, power, and invisible labor. I also decided which nodes and connections mattered most for showing the hidden material reality of AI.
 
 ---
-
-[← Back to Museum of Makes](../makes/)  
-[Back to Home](../index.html)
+<div class="make-navigation">
+  <a href="week07.html" class="button secondary">← Previous Make</a>
+  <a href="../makes/" class="button">Back to Museum of Makes</a>
+  <a href="../index.html" class="button secondary">Back to Home</a>
+  <a href="week10.html" class="button secondary">Next Make →</a>
+</div>
